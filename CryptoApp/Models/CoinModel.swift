@@ -79,7 +79,7 @@ struct CoinModel: Identifiable, Codable {
         case eth = "eth"
         case usd = "usd"
     }
-
+ 
 }
 // MARK: - SparklineIn7D
 struct SparklineIn7D: Codable {
